@@ -33,6 +33,10 @@
 
 I approach every project with system design thinking and performance optimization in mind.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4XShGJDNvXGzK/giphy.gif" width="100%" />
+</p>
+
 ---
 
 ## 🛠 Tech Stack
@@ -66,6 +70,10 @@ I approach every project with system design thinking and performance optimizatio
 ---
 
 ## 🔥 Featured Projects
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:1a1a2e&height=500&animation=twinkling" />
+</p>
+
 
 ### 🧊 EcoCold – Smart Cold Chain Monitoring
 Real-time IoT temperature monitoring system with cloud integration.
