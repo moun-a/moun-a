@@ -1,14 +1,18 @@
 <!-- ================== HEADER ANIMATION ================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:8e2de2&height=200&section=header&text=Mouna&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=250&section=header&text=Mouna&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+RTOS+%7C+Edge+AI;Building+Reliable+Intelligent+Systems" />
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moun-a&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ## 👩‍💻 Who I Am
 
@@ -81,7 +85,11 @@ Edge-based face recognition and anomaly detection using computer vision.
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Mouna&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0f2027&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Real-Time+Systems+Architect;IoT+%7C+RTOS+%7C+Edge+AI;Designing+Intelligent+Hardware+Systems" />
 </p>
+
