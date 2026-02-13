@@ -1,65 +1,62 @@
-<!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi, I'm Mouna 👩‍💻</h1>
-<h3 align="center">Embedded Systems & Intelligent IoT Engineer</h3>
+<!-- ================== HEADER ANIMATION ================== -->
 
 <p align="center">
-Building reliable systems at the intersection of hardware, real-time software, and AI.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:8e2de2&height=200&section=header&text=Mouna&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%7C+RTOS+%7C+Edge+AI;Building+Reliable+Intelligent+Systems" />
 </p>
 
 ---
 
 ## 👩‍💻 Who I Am
 
-- 🎓 Embedded Systems & Digital Services Engineering Student  
-- 🔬 Focused on IoT, Real-Time Systems, and AI Integration  
-- ⚡ Passionate about building intelligent, reliable embedded solutions  
-- 🧠 Interested in RTOS, Wireless Communication, and Edge AI  
+🎓 Embedded Systems & Digital Services Engineering Student  
+⚙️ Focused on real-time architectures and intelligent IoT systems  
+🧠 Passionate about merging hardware precision with AI intelligence  
+🚀 Designing scalable, structured, and production-ready embedded solutions  
 
 ---
 
 ## 🚀 What I Build
 
 - 📡 IoT Monitoring Systems  
-- 🧠 AI-Powered Embedded Applications  
-- 🔐 Smart Access Control Systems  
-- 🌡 Environmental & Industrial Monitoring Solutions  
-- 📷 Intelligent Surveillance Systems  
+- 🔐 Smart Access Control Architectures  
+- 🌡 Industrial Environmental Monitoring  
+- 👁 AI-Based Surveillance Systems  
+- 📊 Real-Time Data Processing Platforms  
 
-I enjoy transforming real-world problems into structured, scalable embedded architectures.
+I approach every project with system design thinking and performance optimization in mind.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Embedded Systems
-![STM32](https://img.shields.io/badge/STM32-MCU-darkgreen)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-black)
-![ESP8266](https://img.shields.io/badge/ESP8266-WiFi-blue)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-RTOS-orange)
+### 🔹 Embedded
+![STM32](https://img.shields.io/badge/STM32-MCU-0f2027?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-8e2de2?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-RTOS-ff6a00?style=for-the-badge)
 
 ### 🔹 Programming
-![C](https://img.shields.io/badge/C-Embedded-blue)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-LowLevel-critical)
-![Python](https://img.shields.io/badge/Python-AI-yellow)
+![C](https://img.shields.io/badge/C-LowLevel-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python)
 
-### 🔹 AI & Computer Vision
-![YOLO](https://img.shields.io/badge/YOLO-ObjectDetection-purple)
-![DeepFace](https://img.shields.io/badge/DeepFace-FacialRecognition-darkred)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange)
+### 🔹 AI & Vision
+![YOLO](https://img.shields.io/badge/YOLO-Detection-purple?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### 🔹 Communication & Networking
-![MQTT](https://img.shields.io/badge/MQTT-IoT-black)
-![LoRa](https://img.shields.io/badge/LoRa-LongRange-blue)
-![WiFi](https://img.shields.io/badge/WiFi-Connectivity-lightgrey)
+### 🔹 Communication
+![MQTT](https://img.shields.io/badge/MQTT-IoT-000000?style=for-the-badge)
+![LoRa](https://img.shields.io/badge/LoRa-LongRange-1e90ff?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moun-a&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moun-a&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moun-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-na&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
 </p>
 
 ---
@@ -67,34 +64,24 @@ I enjoy transforming real-world problems into structured, scalable embedded arch
 ## 🔥 Featured Projects
 
 ### 🧊 EcoCold – Smart Cold Chain Monitoring
-IoT-based system for real-time temperature monitoring with embedded sensors and cloud communication.
+Real-time IoT temperature monitoring system with cloud integration.
 
 ### 🔐 RFID Access Control System
-ESP8266-based smart access system with database integration and remote logging.
+ESP8266-based smart access solution with database and logging architecture.
 
-### 👁 AI Surveillance System
-Raspberry Pi-based intelligent monitoring system with face recognition and anomaly detection.
-
----
-
-## 🎯 Engineering Focus
-
-- Real-Time Task Scheduling & RTOS Architecture  
-- Low-level Microcontroller Programming  
-- Sensor Integration & Hardware Interfacing  
-- Edge AI Deployment  
-- System Optimization & Performance Tuning  
+### 👁 AI Surveillance Platform
+Edge-based face recognition and anomaly detection using computer vision.
 
 ---
 
-## 📫 Contact
+## 🧩 Contribution Activity
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-- 🌐 Portfolio: (optional)
+<p align="center">
+  <img src="https://github.com/moun-a/moun-a/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Designing intelligent embedded systems, one project at a time.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0f2027&height=120&section=footer"/>
 </p>
