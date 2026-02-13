@@ -33,9 +33,7 @@
 
 I approach every project with system design thinking and performance optimization in mind.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4XShGJDNvXGzK/giphy.gif" width="100%" />
-</p>
+
 
 ---
 
@@ -70,9 +68,7 @@ I approach every project with system design thinking and performance optimizatio
 ---
 
 ## 🔥 Featured Projects
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:1a1a2e&height=500&animation=twinkling" />
-</p>
+
 
 
 ### 🧊 EcoCold – Smart Cold Chain Monitoring
@@ -96,7 +92,9 @@ Edge-based face recognition and anomaly detection using computer vision.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Mouna&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:1a1a2e&height=500&animation=twinkling" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Real-Time+Systems+Architect;IoT+%7C+RTOS+%7C+Edge+AI;Designing+Intelligent+Hardware+Systems" />
 </p>
