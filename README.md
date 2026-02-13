@@ -1,97 +1,118 @@
-# ⚡ QUICK SETUP GUIDE
+<div align="center">
 
-## 1. Replace These 4 Things:
+# ⚡ EMBEDDED SYSTEMS ENGINEER
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=00FFF7&center=true&vCenter=true&repeat=true&width=600&lines=Building+Intelligence+at+the+Edge;Real-Time+Systems+%7C+IoT+%7C+Edge+AI;Where+Hardware+Meets+Intelligence" alt="Typing SVG" />
 
 ```
-YOUR_USERNAME  → your-github-username (appears 5 times)
-YOUR_PROFILE   → your-linkedin-username
-your.email     → your@email.com
-your-portfolio → your-website.com
+        ⚙️ → 📡 → 🧠 → ☁️
+    Hardware  IoT   AI   Cloud
 ```
 
-## 2. Done! 🎉
-
-That's it. The README is designed to be:
-
-✅ **Short** - No walls of text  
-✅ **Dynamic** - Animated typing, twinkling waves, live contribution graph  
-✅ **Visual** - Moving elements catch attention  
-✅ **Professional** - Clean and focused  
-✅ **Valuable** - Shows your expertise without overwhelming  
+</div>
 
 ---
 
-## 🎨 What's Dynamic Here:
+<div align="center">
 
-1. **Typing Animation** - Cycles through your key skills
-2. **Twinkling Header Wave** - Animated gradient background
-3. **Live GitHub Stats** - Updates automatically
-4. **Contribution Activity Graph** - Real-time visualization
-5. **Twinkling Footer Wave** - Smooth animated closing
+## `$ whoami`
 
----
+**Embedded Systems & Digital Services Engineering Student**
 
-## 🎯 Why This Works:
+Designing production-ready systems from silicon to cloud  
+Specialized in real-time architectures, IoT ecosystems, and edge intelligence
 
-**Short & Scannable** → People can read it in 30 seconds  
-**Movement** → Animations catch the eye  
-**Focused** → Only your core identity, no project noise  
-**Professional** → Clean cyan/purple theme  
-**Substantive** → Philosophy quotes show depth  
+</div>
 
 ---
 
-## 💡 Optional Tweaks:
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Change Color Theme
-Replace `00fff7` (cyan) with:
-- `ff006e` - Hot pink
-- `00ff41` - Matrix green  
-- `ffd700` - Gold
-- `9d4edd` - Purple
+### 🔧 Stack
 
-### Customize Typing Lines
-Edit these lines:
-```
-lines=Your+Line+1;Your+Line+2;Your+Line+3
-```
+**Hardware**  
+`STM32` `ESP32` `nRF52` `Raspberry Pi`
 
-### Change Wave Animation
-In the capsule-render URLs, change:
-- `animation=twinkling` to `fadeIn`, `scaleIn`, or `blink`
-- `customColorList=6,11,20` to other gradient combinations
+**Languages**  
+`C/C++` `Python` `Rust`
 
----
+**RTOS**  
+`FreeRTOS` `Zephyr`
 
-## ✅ Why This is Better:
+**Protocols**  
+`MQTT` `LoRaWAN` `BLE` `Modbus`
 
-**Old Version:**
-- Too long (people don't read walls of text)
-- Too many project details
-- Static badges everywhere
-- Looked like every other profile
+</td>
+<td width="50%" valign="top">
 
-**New Version:**
-- Quick read (30 seconds)
-- Dynamic animations (twinkling waves, typing effect, live graphs)
-- Shows who you are, not just what you built
-- Memorable and eye-catching
-- Professional but has personality
+### 🎯 Focus Areas
+
+- ⚡ Real-time embedded systems
+- 📡 IoT & wireless sensor networks
+- 🧠 Edge AI & computer vision
+- 🔐 Secure embedded architectures
+- ⚙️ Low-power hardware design
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 The Philosophy:
+<div align="center">
 
-> "Your README should make people want to click on your repos, not replace them."
+## 🚀 What I Build
 
-This README is a **teaser**, not a portfolio. It shows:
-- What you do (embedded systems)
-- What you focus on (IoT, AI, real-time)
-- How you think (philosophy quotes)
-- That you're active (live stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=IoT%20•%20Embedded%20•%20Edge%20AI&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-Then they click your repos to see the actual work.
+</div>
+
+**Industrial Monitoring** → Multi-node sensor networks with LoRaWAN  
+**Access Control** → RFID systems with encrypted authentication  
+**Edge Intelligence** → On-device AI without cloud dependency  
+**Real-Time Systems** → FreeRTOS applications with deterministic timing
 
 ---
 
-**Make it yours and ship it!** 🚀
+<div align="center">
+
+## ⚡ Live Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=00fff7&text_color=ffffff&icon_color=00fff7&border_color=00fff7&include_all_commits=true&count_private=true&hide_border=false" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=midnight-purple&background=0d1117&ring=00fff7&fire=00fff7&currStreakLabel=00fff7&border=00fff7&stroke=00fff7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00fff7&line=00fff7&point=ffffff&area=true&hide_border=false&border_color=00fff7&custom_title=Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Engineering Philosophy
+
+</div>
+
+> **"Real-time doesn't mean fast—it means deterministic."**
+
+> **"Hardware constraints breed software creativity."**
+
+> **"The best code ships on time, on budget, and on 32KB of RAM."**
+
+---
+
+<div align="center">
+
+## 📡 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00fff7&style=flat-square)
+
+</div>
