@@ -62,7 +62,7 @@ I approach every project with system design thinking and performance optimizatio
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moun-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-na&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moun-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
 </p>
 
 ---
