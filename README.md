@@ -129,7 +129,7 @@ class EmbeddedSystemsEngineer:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moun-a&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
