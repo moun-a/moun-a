@@ -136,6 +136,8 @@ class EmbeddedSystemsEngineer:
 <div align="center">
 
 ### Embedded Development
+![FPGA](https://img.shields.io/badge/FPGA-EP2C20F484C7?style=for-the-badge&logo=altera&logoColor=white)
+
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -168,7 +170,7 @@ class EmbeddedSystemsEngineer:
 ### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![PHP](https://img.shields.io/badge/phpmyadmin?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
