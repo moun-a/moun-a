@@ -27,7 +27,7 @@ class EmbeddedSystemsEngineer:
     
     def current_stack(self):
         return {
-            "hardware": ["STM32", "ESP32", "nRF52", "Raspberry Pi"],
+            "hardware": ["STM32", "ESP32", "FPGA", "Raspberry Pi"],
             "rtos": ["FreeRTOS", "Zephyr", "Bare Metal"],
             "languages": ["C/C++", "Python", "Rust (learning)"],
             "ai_ml": ["TensorFlow Lite", "YOLO", "OpenCV"],
@@ -53,8 +53,8 @@ class EmbeddedSystemsEngineer:
 <td width="50%">
 
 ### 🔌 Hardware Layer
-- **Microcontrollers**: STM32 (F4/H7), ESP32-S3, Nordic nRF52
-- **Sensors**: I²C/SPI interfacing, ADC optimization
+- **Microcontrollers**: STM32 (F4/M7), ESP32, FPGA , ARDUINO , ESP8826 , Raspberry Pi
+- **Sensors**: I2C/SPI interfacing, ADC optimization
 - **Power**: Low-power design, battery management
 - **PCB**: Schematic design, signal integrity
 
@@ -73,63 +73,7 @@ class EmbeddedSystemsEngineer:
 
 ---
 
-## 🎯 Featured Engineering Projects
 
-<details open>
-<summary><b>🧊 EcoCold – Industrial Cold Chain Intelligence</b></summary>
-
-**Challenge**: Monitor temperature-sensitive cargo across distributed facilities  
-**Solution**: Multi-node IoT system with predictive anomaly detection
-
-- 📡 ESP32-based sensor nodes with LoRaWAN long-range communication
-- 🌡️ DHT22 + DS18B20 redundant temperature sensing (±0.5°C accuracy)
-- ⚡ Ultra-low power: 6 months on single 18650 battery
-- 📊 Real-time dashboards with threshold alerts via MQTT → Node-RED → InfluxDB
-- 🧠 ML-based temperature trend analysis for predictive maintenance
-
-**Tech Stack**: `ESP32` `LoRa` `FreeRTOS` `MQTT` `Python` `InfluxDB`
-
-[🔗 View Project](#) | [📄 Technical Docs](#)
-
-</details>
-
-<details>
-<summary><b>🔐 SecureEntry – RFID Access Control Ecosystem</b></summary>
-
-**Challenge**: Design scalable, secure access management for multi-building campus  
-**Solution**: Distributed RFID system with centralized authentication
-
-- 🔑 RC522 RFID reader + ESP8266 WiFi controller
-- 🗄️ MySQL backend with encrypted credential storage
-- 🔔 Real-time access logs with webhook notifications
-- 🌐 RESTful API for mobile app integration
-- 🔒 AES-encrypted card-to-server communication
-
-**Tech Stack**: `ESP8266` `RFID (MFRC522)` `MySQL` `Flask API` `AES Encryption`
-
-[🔗 View Project](#) | [📊 System Diagram](#)
-
-</details>
-
-<details>
-<summary><b>👁️ VisionGuard – AI-Powered Edge Surveillance</b></summary>
-
-**Challenge**: Real-time object detection with privacy-first design  
-**Solution**: On-device AI inference without cloud dependency
-
-- 🎥 Raspberry Pi 4 + Coral TPU accelerator
-- 🧠 YOLOv8 nano model (85 FPS, 15ms latency)
-- 🚨 Automated alert system for anomaly events
-- 📹 H.264 video encoding with motion-triggered recording
-- 🔒 Local processing—no video data leaves the device
-
-**Tech Stack**: `Raspberry Pi` `TensorFlow Lite` `Coral TPU` `OpenCV` `Python`
-
-[🔗 View Project](#) | [🎬 Demo Video](#)
-
-</details>
-
----
 
 ## 🛠️ Engineering Toolkit
 
